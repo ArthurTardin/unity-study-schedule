@@ -1,4 +1,4 @@
-# Cronograma de estudo - Unity
+# ![My Skills](https://skillicons.dev/icons?i=unity) Cronograma de estudo - Unity
 
 ## Objetivo
 
